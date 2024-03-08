@@ -1,7 +1,7 @@
 version: '2.3'
 services:
   worker:
-    image: myoung34/github-runner:2.311.0-debian-bullseye
+    image: myoung34/github-runner:2.314.1-debian-bullseye
     environment:
       RUNNER_NAME: vm-orga-runner-ht
       ORG_NAME: Hunting-Table

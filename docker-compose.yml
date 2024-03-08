@@ -4,8 +4,8 @@ services:
     image: myoung34/github-runner:2.314.1-debian-bullseye
     environment:
       RUNNER_NAME: vm-orga-runner-ht
-      ORG_NAME: Hunting-Table
-      RUNNER_TOKEN: A33YAC2ELMJL6LOX5PZATW3F5LOC2
+      PROJECT_URL: https://github.com/Hunting-Table
+      RUNNER_TOKEN: A33YAC6WYFRFKTEPRSLNQVDF5LXJK
       RUNNER_WORKDIR: /tmp/runner/work
       RUNNER_GROUP: Default
       RUNNER_SCOPE: 'org'

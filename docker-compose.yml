@@ -5,7 +5,7 @@ services:
     environment:
       RUNNER_NAME: vm-orga-runner-ht
       PROJECT_URL: https://github.com/Hunting-Table
-      RUNNER_TOKEN: A33YAC6WYFRFKTEPRSLNQVDF5LXJK
+      RUNNER_TOKEN: A33YAC66W6A7SWRW7BYA3NTF5LYNQ
       RUNNER_WORKDIR: /tmp/runner/work
       RUNNER_GROUP: Default
       RUNNER_SCOPE: 'org'
